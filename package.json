@@ -6,6 +6,8 @@
     "react-scripts": "0.7.0"
   },
   "dependencies": {
+    "express": "^4.14.0",
+    "knex": "^0.12.6",
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
   },
@@ -15,7 +17,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Find the repository [here](https://github.com/girlsam/capstone)",
   "main": "index.js",
   "author": "Sam Goldsmith",
   "license": "ISC"
